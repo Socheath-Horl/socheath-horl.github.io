@@ -1,0 +1,75 @@
+SOCHEATH HORL
+Senior Backend Developer
+horl.socheath@gmail.com   |   099 641 936
+Phnom Penh, Kingdom of Cambodia	
+PROFESSIONAL SUMMARY
+Senior Backend Developer focused on building reliable and scalable systems for business applications such as ERP, HR, payroll, inventory, restaurant management, school management, and point-of-sale systems. Experienced in designing backend services and working with modern frameworks. Known for writing clean, maintainable code and collaborating effectively with teams to deliver practical solutions.
+WORK EXPERIENCE
+Senior Backend Developer  |  Wing Bank	Feb 2023 – Present
+•	Contribute to backend development of an enterprise ERP system (Connect), covering HR, Payroll, Inventory, Purchase, Sale, and Project Management modules
+•	Developed and maintained integration features to sync data between Connect, Wing University, and external systems
+•	Worked closely with the Finance Developer team to align Inventory, Purchase, and Sale modules with the Accounting module
+•	Built and improved inventory reporting features to support business insights and day-to-day operations
+Software Developer  |  ATech Group Co., Ltd	Jan 2020 – Jan 2023
+•	Contributed to Dinex 4, a Restaurant Management System, delivering item management and reporting features
+•	Built a full-stack Call Center System handling both backend logic and frontend UI
+•	Developed an extension application for QuickBooks Online, contributing to database design and implementing both backend and frontend features
+•	Contributed as a frontend developer on a Report Engine project used across multiple client deployments
+Web Developer  |  One Click Solution Co., Ltd	Mar 2016 – Dec 2019
+•	Developed a Personal Information Management System (PMIS) from scratch
+•	Participated in building a School Management System — analyzed and developed the database layer
+•	Contributed to an Inventory Management System, owning the purchase phase module
+•	Built reporting tools for a Payroll Management System using XtraReport; designed key UI layouts
+•	Developed a Point-of-Sale system with POS hardware integration (Sunmi V2 Pro) and wrapped an Android app using Progressive Web Apps (PWA)
+TECHNICAL SKILLS
+
+Programming Languages
+▸  JavaScript / TypeScript
+▸  Python
+▸  C#
+▸  Java
+▸  HTML / CSS	Frameworks & Tools
+▸  Django
+▸  FastAPI
+▸  Spring Boot
+▸  .NET Core
+▸  Vue.js
+▸  Bootstrap
+
+Databases
+▸  Microsoft SQL Server
+▸  PostgreSQL	Other Tools
+▸  Figma (UI Design)
+▸  Microsoft Office Suite
+▸  Git / Version Control
+▸  Vibe Code with Claude Code and OpenCode
+
+EDUCATION
+Bachelor of Computer Science	Oct 2012 – 2016
+Western University
+Bacc II (Grade 12)	Oct 2009 – Aug 2012
+Hun Sen Bun Rany Watt Phnom High School
+Diploma (Grade 9)	Oct 2006 – Jul 2009
+Hun Sen Bun Rany Watt Phnom High School
+
+PERSONAL DETAILS
+Nationality	Khmer
+Gender	Male
+Marital Status	Single
+	LANGUAGES
+Khmer	Native / Mother tongue
+English	Good Listening, Reading, Writing and Speaking
+
+
+REFERENCES
+Mr. Dork Den
+DevOps Lead, Wing Bank
+Tel: 092 492 373	Mr. Soktheng Chhorn
+Senior Backend Developer, Wing Bank
+Tel: 087 630 908
+Mr. Nhoem Dara
+Software Developer, CSX
+Tel: 096 665 3520	Mr. Sim Nimol
+Java Developer, Yescar
+Tel: 010 720 971
+
